@@ -40,5 +40,5 @@ Decker_MMIV - fs-uk.com, forum.farming-simulator.com, modhoster.com]]>
         <text name="FollowMeOffRgt"                         text="Rechts-uitl. %.1f" />
         <text name="FollowMeDistBehind"                     text="Achter-afst. %.1f" />
         <text name="FollowMeDistAhead"                      text="Voor-afst. %.1f" />
-    </texts>
+    </texts> 
 </l10n>
